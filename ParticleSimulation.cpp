@@ -1,13 +1,3 @@
-// ParticleSimulation.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
-//#include <iostream>
-//
-//int main()
-//{
-//    std::cout << "Hello World!\n";
-//}
-
 #include <SFML/Graphics.hpp>
 
 int main()
@@ -27,8 +17,10 @@ int main()
     }
 }
 
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
+
+
+
+
 
 // Tips for Getting Started: 
 //   1. Use the Solution Explorer window to add/manage files
